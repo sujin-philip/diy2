@@ -7,6 +7,7 @@ var searchData=
   ['dimk',['DimK',['../structdiy_1_1_regular_partners_1_1_dim_k.html',1,'diy::RegularPartners']]],
   ['distance',['distance',['../namespacediy.html#a07e3a1a1c9493a8bf6cb6bfba92c3774',1,'diy']]],
   ['diy',['diy',['../namespacediy.html',1,'']]],
+  ['diy',['DIY',['../index.html',1,'']]],
   ['decomposition',['decomposition',['../md_docs_detail_decomposition.html',1,'']]],
   ['mpi',['mpi',['../namespacediy_1_1mpi.html',1,'diy']]]
 ];
